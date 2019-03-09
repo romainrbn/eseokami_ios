@@ -1,0 +1,6 @@
+framework module RSBarcodes_Swift {
+  umbrella header "RSBarcodes_Swift-umbrella.h"
+
+  export *
+  module * { export * }
+}

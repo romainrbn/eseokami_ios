@@ -1,0 +1,6 @@
+framework module PullToMakeSoup {
+  umbrella header "PullToMakeSoup-umbrella.h"
+
+  export *
+  module * { export * }
+}
