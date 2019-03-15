@@ -20,5 +20,5 @@ This app is still in development.
 <img src="map.png" height="500"> <img src="form.png" height="500"> <img src="maCommande.png" height="500"> \
 \
 The organizer receives an order: <br/>
-<img src="maReservation.png" height="500">
+<img src="mesLivraisons.png" height="500">
 
