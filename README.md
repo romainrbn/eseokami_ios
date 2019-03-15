@@ -8,6 +8,7 @@ This app is still in development.
 
 - The user has of course all the information about the union (members, day schedule, program, meals, videos, sponsors)
 <img src="meals.png" height="500">
+<img src="programme.png" height="500">
 
 
 
