@@ -7,8 +7,8 @@ This app is still in development.
 - The user can see in real-time is current score. The user earns points by winning activities. To earn points, he needs to show is unique QRCode to the organizer. The organizer has his own version of the app. Instead of showing a QRCode, a scanner pops out. Then, he can add the points according to the activity.
 
 - The user has of course all the information about the union (members, day schedule, program, meals, videos, sponsors)
-<img src="meals.png" height="500">
-<img src="programme.png" height="500">
+<img src="meals.png" height="500"> <img src="programme.png" height="500">
+
 
 
 
