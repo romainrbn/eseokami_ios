@@ -1,7 +1,8 @@
 # ESEOKAMI iOS App 🐉
 
-iOS App for ESEOKAMI, a students union running for the campaign that will take place in April.
-This app is still in development.
+iOS App for ESEOKAMI, a students union running for the campaign that will take place in April. Click [here](https://github.com/romainrbn/eseokami_android) to see the Android version of this app.
+<br/>
+**This app is still in development.**
 
 ## Features
 - The user can see in real-time is current score. The user earns points by winning activities. To earn points, he needs to show is unique QRCode to the organizer. The organizer has his own version of the app. Instead of showing a QRCode, a scanner pops out. Then, he can add the points according to the activity.<br/>
