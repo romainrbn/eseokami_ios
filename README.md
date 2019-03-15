@@ -22,5 +22,5 @@ This app is still in development.
 The organizer receives an order: <br/>
 <img src="mesLivraisons.png" height="500">
 
-- The app contains many animations (created with [Lottie]https://github.com/airbnb/lottie-ios)
+- The app contains many animations created with [Lottie]https://github.com/airbnb/lottie-ios
 
