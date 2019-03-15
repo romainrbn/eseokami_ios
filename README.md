@@ -7,6 +7,7 @@ This app is still in development.
 - The user can see in real-time is current score. The user earns points by winning activities. To earn points, he needs to show is unique QRCode to the organizer. The organizer has his own version of the app. Instead of showing a QRCode, a scanner pops out. Then, he can add the points according to the activity.
 
 - The user has of course all the information about the union (members, day schedule, program, meals, videos, sponsors)
+[]!(meals.png)
 
 
 -  The user can book his shuttle for a particular activity. The app automatically handles the number of reservations depending on the capacity of the shuttles.
