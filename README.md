@@ -2,7 +2,6 @@
 
 iOS App for ESEOKAMI, a students union running for the campaign that will take place in April. Click [here](https://github.com/romainrbn/eseokami_android) to see the Android version of this app.
 <br/>
-**This app is still in development.**
 
 <img src="iphone3.png" height=200>
 
