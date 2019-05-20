@@ -6,7 +6,7 @@ iOS App for ESEOKAMI, a students union running for the campaign that will take p
 <img src="iphone3.png" height=200>
 
 ## Features
-- The user can see in real-time is current score. The user earns points by winning activities. To earn points, he needs to show is unique QRCode to the organizer. The organizer has his own version of the app. Instead of showing a QRCode, a scanner pops out. Then, he can add the points according to the activity.<br/>
+- The user can see in real-time the current score. The user earns points by winning activities. To earn points, he needs to show is unique QRCode to the organizer. The organizer has his own version of the app. Instead of showing a QRCode, a scanner pops out. Then, he can add the points according to the activity.<br/>
 <img src="qrHint.png" height="500">
 
 - The user has of course all the information about the union (members, day schedule, program, meals, videos, sponsors)\
